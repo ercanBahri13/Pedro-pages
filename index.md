@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # <Pedro>
 **[Pedro](../)** ← click me
 

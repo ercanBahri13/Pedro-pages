@@ -1,22 +1,20 @@
----
----
-
-@import "{{ site.theme }}";
-
-/* TTF fontu tanıt */
 @font-face {
   font-family: "PedroFont";
   src: url("../fonts/PedroFont.ttf") format("truetype");
   font-display: swap;
 }
 
-/* Pedro linkini özel fontla yaz */
+.site-header { padding: 1.25rem 0; }
+
 .pedro-home {
   font-family: "PedroFont", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 32px;
   font-weight: 700;
-  font-size: 24px;
   text-decoration: none;
 }
-.pedro-home:hover {
-  text-decoration: underline;
+.pedro-home:hover { text-decoration: underline; }
+
+/* Cayman tema üst başlığı (Pedro-pages) tamamen kapat */
+.page-header {
+  display: none !important;
 }

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <a class="pedro-home" href="../">Pedro</a>
 
 # Privacy Policy
