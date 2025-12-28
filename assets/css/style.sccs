@@ -11,14 +11,10 @@
 }
 
 /* Cayman kalsın, sadece font değişsin */
-body {
+body, h1, h2, h3, h4, h5, h6, .project-name, .project-tagline {
   font-family: "PedroFont", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
 
-/* Başlıklar da aynı font olsun */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "PedroFont", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-}
 
 /* Cayman header’daki yazılar (project name/tagline) */
 .project-name, .project-tagline {
@@ -29,3 +25,4 @@ h1, h2, h3, h4, h5, h6 {
 code, pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
+body { border-top: 10px solid red; }
