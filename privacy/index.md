@@ -1,3 +1,5 @@
+<a class="pedro-home" href="../">Pedro</a>
+
 # Privacy Policy
 
 **Pedro** does not collect, store, or share personal data.

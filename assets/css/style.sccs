@@ -1,0 +1,22 @@
+---
+---
+@font-face {
+  font-family: "YourFontName";
+  src: url("../fonts/YourFont.woff2") format("woff2");
+  font-display: swap;
+}
+
+@import "{{ site.theme }}";
+
+/* 1) Pedro linki için özel stil */
+.pedro-home {
+  font-family: "YourFontName", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+/* Hover (üstüne gelince) */
+.pedro-home:hover {
+  text-decoration: underline;
+}

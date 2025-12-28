@@ -1,3 +1,5 @@
+<a class="pedro-home" href="../">Pedro</a>
+
 # Support
 
 If you need help with **Pedro**, contact:
