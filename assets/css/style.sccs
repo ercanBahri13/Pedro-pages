@@ -14,7 +14,4 @@
 }
 .pedro-home:hover { text-decoration: underline; }
 
-/* Cayman tema üst başlığı (Pedro-pages) tamamen kapat */
-.page-header {
-  display: none !important;
-}
+
