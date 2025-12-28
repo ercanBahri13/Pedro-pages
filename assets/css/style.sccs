@@ -5,20 +5,20 @@
 
 /* Font */
 @font-face {
-  font-family: "PedroFont";
-  src: url("../fonts/PedroFont.ttf") format("truetype");
+  font-family: "Bridgnorth-Regular";
+  src: url("../fonts/Bridgnorth-Regular.ttf") format("truetype");
   font-display: swap;
 }
 
 /* Cayman kalsın, sadece font değişsin */
 body, h1, h2, h3, h4, h5, h6, .project-name, .project-tagline {
-  font-family: "PedroFont", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-family: "Bridgnorth-Regular", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
 
 
 /* Cayman header’daki yazılar (project name/tagline) */
 .project-name, .project-tagline {
-  font-family: "PedroFont", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-family: "Bridgnorth-Regular", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
 
 /* Kod bloklarını bozma */
