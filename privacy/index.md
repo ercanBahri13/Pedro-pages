@@ -1,7 +1,3 @@
-
-
-
-
 # Privacy Policy
 
 <a class="pedro-home" href="../">Pedro</a> does not collect, store, or share personal data.
