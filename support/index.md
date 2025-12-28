@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<a class="pedro-home" href="../">Pedro</a>
+
 
 # Support
 
-If you need help with **Pedro**, contact:
+If you need help with <a class="pedro-home" href="../">Pedro</a>, contact:
 
 - Email: ercanbahri66@gmail.com
 - (Optional) Discord: <invite link>

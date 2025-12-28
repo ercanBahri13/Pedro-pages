@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<a class="pedro-home" href="../">Pedro</a>
+
 
 # Privacy Policy
 
-**Pedro** does not collect, store, or share personal data.
+<a class="pedro-home" href="../">Pedro</a> does not collect, store, or share personal data.
 
 ## Data Collection
 - We do not collect personally identifiable information.

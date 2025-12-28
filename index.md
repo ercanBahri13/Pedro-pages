@@ -1,9 +1,5 @@
----
-layout: default
----
-
 # <Pedro>
-**[Pedro](../)** ← click me
+
 
 Official links:
 
