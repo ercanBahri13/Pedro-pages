@@ -1,6 +1,6 @@
 # Support
 
-If you need help with **<Your Game Name>**, contact:
+If you need help with <Pedro>, contact:
 
 - Email: <your-email>
 - (Optional) Discord: <invite link>
