@@ -1,17 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Font */
 @font-face {
   font-family: "PedroFont";
   src: url("../fonts/PedroFont.ttf") format("truetype");
   font-display: swap;
 }
 
-.site-header { padding: 1.25rem 0; }
-
-.pedro-home {
+/* Cayman kalsın, sadece font değişsin */
+body {
   font-family: "PedroFont", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  font-size: 32px;
-  font-weight: 700;
-  text-decoration: none;
 }
-.pedro-home:hover { text-decoration: underline; }
 
+/* Başlıklar da aynı font olsun */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PedroFont", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
 
+/* Cayman header’daki yazılar (project name/tagline) */
+.project-name, .project-tagline {
+  font-family: "PedroFont", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+/* Kod bloklarını bozma */
+code, pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
