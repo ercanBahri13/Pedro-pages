@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**<Your Game Name>** does not collect, store, or share personal data.
+**<Pedro>** does not collect, store, or share personal data.
 
 ## Data Collection
 - We do not collect personally identifiable information.
