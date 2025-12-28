@@ -1,7 +1,3 @@
-
-
-
-
 # Support
 
 If you need help with <a class="pedro-home" href="../">Pedro</a>, contact:
