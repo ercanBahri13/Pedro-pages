@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**<Pedro>** does not collect, store, or share personal data.
+**Pedro** does not collect, store, or share personal data.
 
 ## Data Collection
 - We do not collect personally identifiable information.
@@ -11,6 +11,6 @@
 - The app does not integrate third-party analytics or advertising SDKs.
 
 ## Contact
-If you have questions, contact: <your-email>
+If you have questions, contact: ercanbahri66@gmail.com
 
 **Last updated:** 2025-12-28

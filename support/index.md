@@ -1,8 +1,8 @@
 # Support
 
-If you need help with Pedro, contact:
+If you need help with **Pedro**, contact:
 
-- Email: <ercanbahri66@gmail.com>
+- Email: ercanbahri66@gmail.com
 - (Optional) Discord: <invite link>
 - (Optional) X/Twitter: <link>
 
