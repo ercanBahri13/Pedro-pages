@@ -25,4 +25,4 @@ body, h1, h2, h3, h4, h5, h6, .project-name, .project-tagline {
 code, pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
-body { border-top: 10px solid red; }
+body { border-bottom: 10px solid red; }
