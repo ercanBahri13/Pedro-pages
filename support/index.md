@@ -3,8 +3,6 @@
 If you need help with <a class="pedro-home" href="../">Pedro</a>, contact:
 
 - Email: ercanbahri66@gmail.com
-- (Optional) Discord: <invite link>
-- (Optional) X/Twitter: <link>
 
 ## Common fixes
 - If the game won’t start: restart the device and try again.
